@@ -1759,4 +1759,4 @@ local function C_7f()
 end;
 task.spawn(C_7f);
 
-return LMG2L["ScreenGui_1"], require;,
+return LMG2L["ScreenGui_1"], require;
