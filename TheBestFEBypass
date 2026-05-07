@@ -847,6 +847,7 @@ LMG2L["UICorner_7b"] = Instance.new("UICorner", LMG2L["TextBoxFrame_7a"]);
 
 LMG2L["TextBox_7c"] = Instance.new("TextBox", LMG2L["TextBoxFrame_7a"]);
 LMG2L["TextBox_7c"]["TextXAlignment"] = Enum.TextXAlignment.Left;
+LMG2L["TextBox_7c"]["ClearTextOnFocus"] = false;
 LMG2L["TextBox_7c"]["BorderSizePixel"] = 0;
 LMG2L["TextBox_7c"]["TextColor3"] = Color3.fromRGB(0, 151, 35);
 LMG2L["TextBox_7c"]["TextYAlignment"] = Enum.TextYAlignment.Top;
